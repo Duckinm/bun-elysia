@@ -1,0 +1,8 @@
+{
+  "data": [
+    { "id": 1, "title": "let's change", "content": "This is the content of post 1" },
+    { "id": 2, "title": "Post 2", "content": "This is the content of post 2" },
+    { "id": 4, "title": "New Post", "content": "This is a new post" },
+    { "id": 5, "title": "New Post", "content": "This is a new post" }
+  ]
+}
